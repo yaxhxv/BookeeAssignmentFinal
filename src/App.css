@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #F1F4F8;
+}
+
+/* text colors */
+
+.text-blue-100 { 
+  color: #F7F8FB
+}
+.text-blue-200 { 
+  color: #F1F4F8
+}
+.text-blue-300 { 
+  color: #CBD2E1
+}
+.text-blue-400 { 
+  color: #A4B8D3
+}
+.text-blue-500 { 
+  color: #4F6C92
+}
+.text-blue-600 { 
+  color: #004FB4
+}
+
+.text-pink-100{
+  color: #EED2DF
+}
+.text-pink-200{
+  color: #FE93B3
+}
+.text-pink-300{
+  color: #E2006A
+}
+
+.text-green-100{
+  color: #CAEFD8
+}
+
+.text-green-200{
+  color: #55CB82
+}
+
+.text-green-300{
+  color: #16A64D
+}
+
+/* backgrounds */ 
+
+.bg-blue-100 { 
+  background-color: #F7F8FB
+}
+.bg-blue-200 { 
+  background-color: #F1F4F8
+}
+.bg-blue-300 { 
+  background-color: #CBD2E1
+}
+.bg-blue-400 { 
+  background-color: #A4B8D3
+}
+.bg-blue-500 { 
+  background-color: #4F6C92
+}
+.bg-blue-600 { 
+  background-color: #004FB4
+}
+
+.bg-pink-100{
+  background-color: #EED2DF
+}
+.bg-pink-200{
+  background-color: #FE93B3
+}
+.bg-pink-300{
+  background-color: #E2006A
+}
+
+.bg-green-100{
+  background-color: #CAEFD8
+}
+
+.bg-green-200{
+  background-color: #55CB82
+}
+
+.bg-green-300{
+  background-color: #16A64D
+}
+
+
+/* borders */
+
+.border-pink-100{
+  border-color: #EED2DF
+}
+.border-pink-200{
+  border-color: #FE93B3
+}
+.border-pink-300{
+  border-color: #E2006A
+}
+
+.border-green-100{
+  border-color: #CAEFD8
+}
+
+.border-green-200{
+  border-color: #55CB82
+}
+
+.border-green-300{
+  border-color: #16A64D
+}
